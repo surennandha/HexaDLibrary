@@ -1,0 +1,17 @@
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\HexaDTest.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\HexaDTest.pdb
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\HexadLibrary.exe
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\HexadLibrary.pdb
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\HexadLibrary.exe.config
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\obj\Release\HexaDTest.csprojAssemblyReference.cache
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\obj\Release\HexaDTest.csproj.CoreCompileInputs.cache
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\obj\Release\HexaDTest.csproj.CopyComplete
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\obj\Release\HexaDTest.dll
+C:\Users\snandha8\Desktop\Hexad\HexaDTest\obj\Release\HexaDTest.pdb
